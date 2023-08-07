@@ -14,7 +14,7 @@ Open terminal
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2023-08-07 012219](https://github.com/Henriquedev0/Calculadora/assets/124810959/61a11d6e-7b36-411e-8e78-7caa91838193)
 
 
 ## Stack 
